@@ -114,3 +114,13 @@ class AttributeSlot(Generic[T]):
 class StrategyInterface:
     # TODO - create a interface system thaqt uses FuncSlot and Attribute slots
     ...
+
+
+class Singleton:
+    # TODO - design and implement a singleton
+    ...
+    
+    
+# TODO - Type Aliases for Complex Types: Creating more readable and reusable type aliases for complex data structures.
+
+# TODO - Immutable Data Types: Utility types that ensure objects are immutable once created.
